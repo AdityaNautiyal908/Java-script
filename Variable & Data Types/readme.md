@@ -13,7 +13,7 @@ Variables are containers for data
 
 var : Variable can be re-declared & updated. A global scope variable.
 ```
- **Example:** 
+    **Example:** 
 let name = "tony stark";
 console.log(name);
 ```
