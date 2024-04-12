@@ -11,7 +11,7 @@ Variables are containers for data
 
 ### let,const & var
 
-var(old choice) : Variable can be re-declared(problem) & updated. A global scope variable.
+var(~~old choice~~) : Variable can be re-declared(problem) & updated. A global scope variable.
 >(but now we don't use var to define our variable)
 ```
 **Example:** 
