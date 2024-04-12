@@ -48,7 +48,7 @@ console.log(age); // Error generate in this code
 
 >[!Note]
 > ***Non-Primitive***
-> Objects(Array,function)-It is a collection of vales
+> * Objects(Array,function)-It is a collection of vales
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
 
 
