@@ -34,3 +34,12 @@ const age = 24;
 age = 25;
 console.log(age); // Error generate in this code
 ```
+
+# Data Types in JS
+1. Number
+2. String
+3. Boolean
+4. Undefined
+5. Null
+6. BigInt
+7. Symbol
