@@ -16,9 +16,10 @@ var(~~old choice~~) : Variable can be re-declared(problem) & updated. A global s
 ```
 **Example:** 
 var name = "tony stark";
+var name = "Hulk";
 console.log(name);
 ```
-let : Variable cannot be re-declared but can be updated. A block scope variable.
+let(*** New choice ***) : Variable cannot be re-declared but can be updated. A block scope variable.
 
 
 const : Variable cannot be re-declared or updated. A block scope variable.
