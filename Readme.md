@@ -1,6 +1,8 @@
 #  Motivation Lines 
 
-  All Power is Within YOU;
-    You Can Do Anything 
+<pre>
+  All Power is Within YOU; <br>
+    You Can Do Anything    <br>
       And Everything
   **-Swami Vivekananda**
+</pre>
