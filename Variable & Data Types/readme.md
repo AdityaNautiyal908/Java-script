@@ -59,5 +59,8 @@ const student = {
 ```
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
 
+## Let's Practice 
+<img width="500px" src="1.png" alt="">
+
 
 
