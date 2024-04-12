@@ -55,12 +55,24 @@ const student = {
     age : 20,
     cgpa : 8.2,
     isPass : true
-}
+};
 ```
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
 
 ## Let's Practice 
 <img width="500px" src="1.png" alt="">
+
+```
+const product = {
+    title : "Ball Pen",
+    rating : 4,
+    offer : 5,
+    price : 270,
+};
+
+console.log(product);
+typeof product
+```
 
 
 
