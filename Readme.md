@@ -1,1 +1,4 @@
-# JavaScript Java Script Java Script 
+#  All Power is Within YOU;
+    You Can Do Anything 
+      And Everything
+  **-Swami Vivekananda**
