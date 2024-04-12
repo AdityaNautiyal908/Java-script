@@ -36,13 +36,10 @@ console.log(age); // Error generate in this code
 ```
 
 # Data Types in JS
-```
-* Number            * Undefined
-* Null              * Symbol
-* BigInt            * String
-          * Boolean
-```
+>[!IMPORTANT]
+> * Number            * Undefined
+> * Null              * Symbol
+> * BigInt            * String
+          > Boolean
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
 
->[!Note]
->This is a important information
