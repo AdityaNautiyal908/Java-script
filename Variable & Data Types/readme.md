@@ -71,7 +71,7 @@ const product = {
 };
 
 console.log(product);
-typeof product
+typeof product // To check the type of datatype;
 ```
 
 
