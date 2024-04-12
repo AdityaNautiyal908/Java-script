@@ -1,8 +1,8 @@
 #  Motivational Lines 
 
-<pre>
+<pre style="font-size:2rem">
   All Power is Within YOU
     You Can Do Anything    
       And Everything
-   <b style="color:red">-Swami Vivekananda</b>
+   <b>-Swami Vivekananda</b>
 </pre>
