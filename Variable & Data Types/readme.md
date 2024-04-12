@@ -42,5 +42,5 @@ console.log(age); // Error generate in this code
 * BigInt            * String
           * Boolean
 ```
-
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
+![Anime image](https://th.bing.com/th/id/OIP.aMh8uNFVPexNj6EBVNayiwHaMh?rs=1&pid=ImgDetMain)
