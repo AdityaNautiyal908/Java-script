@@ -19,6 +19,7 @@ var name = "tony stark";
 var name = "Hulk";
 console.log(name);
 ```
+
 let(**New choice**) : Variable cannot be re-declared but can be updated. A block scope variable.
 ```
 **Example**
@@ -28,3 +29,8 @@ console.log(age);
 ```
 
 const : Variable cannot be re-declared or updated. A block scope variable.
+```
+const age = 24;
+age = 25;
+console.log(age); // Error generate in this code
+```
