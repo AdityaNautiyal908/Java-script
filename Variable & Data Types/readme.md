@@ -12,6 +12,11 @@ Variables are containers for data
 ### let,const & var
 
 var : Variable can be re-declared & updated. A global scope variable.
+```
+Example:
+let name = "tony stark";
+console.log(name);
+```
 
 let : Variable cannot be re-declared but can be updated. A block scope variable.
 
