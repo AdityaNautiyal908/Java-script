@@ -49,6 +49,14 @@ console.log(age); // Error generate in this code
 >[!Note]
 > ***Non-Primitive***
 > * Objects(Array,function)-It is a collection of vales
+```
+const student = {
+    fullName : "Rahul Kumar";
+    age : 20,
+    cgpa : 8.2,
+    isPass : true
+}
+```
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
 
 
