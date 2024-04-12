@@ -42,3 +42,5 @@ console.log(age); // Error generate in this code
 * BigInt            * String
           * Boolean
 ```
+
+![An image showing using of Data Types](https://1drv.ms/i/s!AlQgKTOsIIMk62Uw1quYoji6nmnS?e=JLZKaN)
