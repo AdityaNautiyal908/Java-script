@@ -37,12 +37,8 @@ console.log(age); // Error generate in this code
 
 # Data Types in JS
 ```
-* Number
-* String
-* Boolean
-* Undefined
-* Null
-* BigInt
-* Symbol
-
+* Number            * Undefined
+* Null              * Symbol
+* BigInt            * String
+          * Boolean
 ```
