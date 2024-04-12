@@ -43,4 +43,4 @@ console.log(age); // Error generate in this code
           * Boolean
 ```
 
-![An image showing using of Data Types](https://1drv.ms/i/s!AlQgKTOsIIMk62Uw1quYoji6nmnS?e=JLZKaN)
+<img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
