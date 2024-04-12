@@ -1,4 +1,4 @@
-#  Motivation Lines 
+#  Motivational Lines 
 
 <pre>
   All Power is Within YOU
