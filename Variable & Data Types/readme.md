@@ -37,7 +37,7 @@ console.log(age); // Error generate in this code
 
 # Data Types in JS
 >[!IMPORTANT]
-> Primitive Data Tpes
+> ***Primitive Data Types***
 > * Number            
 > * Undefined
 > * Null              
