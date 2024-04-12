@@ -1,6 +1,6 @@
 #  Motivational Lines 
 
-<pre style="font-size:8rem">
+<pre>
   All Power is Within YOU
     You Can Do Anything    
       And Everything
