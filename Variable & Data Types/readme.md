@@ -59,7 +59,8 @@ const student = {
 ```
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
 
-## Let's Practice 
+# Let's Practice 
+## Question first
 <img width="500px" src="1.png" alt="">
 
 ```
@@ -73,6 +74,20 @@ const product = {
 console.log(product);
 typeof product // To check the type of datatype;
 ```
+
+## Question second
+<img width="500px" src="2.png" alt="">
+```
+const profile = {
+    Username : "@shradhakhapra",
+    isFollow : false,
+    followers : 123,
+    following : 123,
+};
+```
+
+
+
 
 
 
