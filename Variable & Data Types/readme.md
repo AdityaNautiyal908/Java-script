@@ -15,7 +15,7 @@ var(old choice) : Variable can be re-declared & updated. A global scope variable
 >(but now we don't use var to define our variable)
 ```
 **Example:** 
-let name = "tony stark";
+var name = "tony stark";
 console.log(name);
 ```
 let : Variable cannot be re-declared but can be updated. A block scope variable.
