@@ -37,6 +37,7 @@ console.log(age); // Error generate in this code
 
 # Data Types in JS
 >[!IMPORTANT]
+> Primitive Data Tpes
 > * Number            
 > * Undefined
 > * Null              
@@ -45,4 +46,6 @@ console.log(age); // Error generate in this code
 > * String
 > * Boolean
 <img width="500px" src="Screenshot 2024-04-12 091505.png" alt="Image showing use of data types">
+
+
 
