@@ -28,7 +28,7 @@ age = 20;
 console.log(age);
 ```
 
-const : Variable cannot be re-declared or updated. A block scope variable.
+const(**New choice**) : Variable cannot be re-declared or updated. A block scope variable.
 ```
 const age = 24;
 age = 25;
