@@ -77,6 +77,7 @@ typeof product // To check the type of datatype;
 
 ## Question second
 <img width="500px" src="2.png" alt="">
+
 ```
 const profile = {
     Username : "@shradhakhapra",
