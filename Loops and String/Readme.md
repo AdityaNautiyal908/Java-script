@@ -6,6 +6,6 @@ Types of loops
 2. do-while loop
 3. for loop
 
-[!Note]
+>[!Note]
 > Syntax of loops
 > 
