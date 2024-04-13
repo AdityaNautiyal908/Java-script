@@ -38,4 +38,4 @@ These are build-in functions to manipulate a string
 * str.toLowerCase()
 * str.trim() // removes whitespaces
 
-The background color is `#fff` is this
+[MonkeyType](https://monkeytype.com/)
