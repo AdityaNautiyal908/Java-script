@@ -31,3 +31,9 @@ String is a sequence of characters used to represent text
 
 > String Indices <br>
 `str[0],str[1],str[2];`
+
+# String Methods in JS
+These are build-in functions to manipulate a string
+* str.toUpperCase()
+* str.toLowerCase()
+* str.trim() // removes whitespaces
