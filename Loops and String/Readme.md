@@ -27,7 +27,7 @@ String is a sequence of characters used to represent text
 
 ## Inbuild properties & function --> Methods
 > String Length <br>
-`str.lenth` 
+`str.length` 
 
 > String Indices <br>
 `str[0],str[1],str[2];`
@@ -37,3 +37,5 @@ These are build-in functions to manipulate a string
 * str.toUpperCase()
 * str.toLowerCase()
 * str.trim() // removes whitespaces
+
+The background color is `#fff` is this
