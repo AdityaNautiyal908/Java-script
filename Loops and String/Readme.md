@@ -8,7 +8,7 @@ Types of loops
 
 >[!Note]
 > Syntax of loops
-` for loop`
+` for loop` <br>
 for(let i=1; i<=5; i++){
     console.log("Hello world");
 }
