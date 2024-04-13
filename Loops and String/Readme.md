@@ -19,3 +19,5 @@ Types of loops
 >// do some work <br> <br>
 >} <br>
 > `while`(condition);
+
+# String
