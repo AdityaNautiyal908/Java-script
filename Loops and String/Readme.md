@@ -21,3 +21,5 @@ Types of loops
 > `while`(condition);
 
 # String
+String is a sequence of characters used to represent text
+> Create String
