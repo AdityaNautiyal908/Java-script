@@ -26,4 +26,8 @@ String is a sequence of characters used to represent text
 `let str = "Hello World";`
 
 ## Inbuild properties & function --> Methods
-> String Length
+> String Length <br>
+`str.lenth` 
+
+> String Indices <br>
+`str[0],str[1],str[2];`
