@@ -9,7 +9,7 @@ Types of loops
 >[!Note]
 > # Syntax of loops <br>
 >`for loop` <br>
-> for(let i=1; i<=5; i++) <br> {
+> for(let i=1; i<=5; i++) <br> { <br>
 > console.log("Hello world"); <br>
 >}
 >
