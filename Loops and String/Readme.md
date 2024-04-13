@@ -23,3 +23,4 @@ Types of loops
 # String
 String is a sequence of characters used to represent text
 > Create String
+`let str = "Hello World";`
