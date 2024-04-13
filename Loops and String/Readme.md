@@ -38,4 +38,3 @@ These are build-in functions to manipulate a string
 * str.toLowerCase()
 * str.trim() // removes whitespaces
 
-![Luffy](https://th.bing.com/th/id/R.f10ffc6272aedb0c58604d40de956ef4?rik=YD5Iy12TG1OFFw&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f25700000%2fLuffy-one-piece-25737033-600-850.jpg&ehk=Rzfg%2bGVN13RBwOPrGGKJMc%2fEY6KkmHISk3UopvkafMI%3d&risl=&pid=ImgRaw&r=0)
