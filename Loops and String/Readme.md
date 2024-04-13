@@ -22,5 +22,8 @@ Types of loops
 
 # String
 String is a sequence of characters used to represent text
-> Create String
+> Create String <br>
 `let str = "Hello World";`
+
+## Inbuild properties & function --> Methods
+> String Length
