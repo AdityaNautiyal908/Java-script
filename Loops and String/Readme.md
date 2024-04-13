@@ -13,6 +13,6 @@ Types of loops
 >    console.log("Hello world");
 >}
 >
->`while`(condition) <br> {
->    // do some work
+>`while`(condition) <br> { <br>
+>    // do some work <br>
 >}
