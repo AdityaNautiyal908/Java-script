@@ -15,3 +15,7 @@ Types of loops
 >`while`(condition) <br> { <br>
 >    // do some work <br>
 >}
+> `do`{ <br>
+>// do some work
+>} <br>
+> `while`(condition);
