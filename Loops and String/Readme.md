@@ -38,4 +38,4 @@ These are build-in functions to manipulate a string
 * str.toLowerCase()
 * str.trim() // removes whitespaces
 
-[MonkeyType](https://monkeytype.com/)
+Show your typing speed here[MonkeyType](https://monkeytype.com/)
