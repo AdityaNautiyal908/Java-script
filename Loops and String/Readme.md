@@ -16,6 +16,6 @@ Types of loops
 >    // do some work <br>
 >} <br> <br>
 > `do`{ <br> <br>
->// do some work <br>
+>// do some work <br> <br>
 >} <br>
 > `while`(condition);
