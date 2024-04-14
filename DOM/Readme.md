@@ -9,6 +9,6 @@ When a web page is loaded, the browser creates a `Document Object Model` (DOM) o
 >`Selecting with id` 
 >document.getElementBYID("myId") 
 
-```js
+```
 aditya
 ```
