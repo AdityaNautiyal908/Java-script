@@ -6,5 +6,9 @@ When a web page is loaded, the browser creates a `Document Object Model` (DOM) o
 ## DOM Manipulation
 
 >[!Note]
->`Selecting with id` &nbsp;
+>`Selecting with id` 
 >document.getElementBYID("myId") 
+
+```js
+aditya
+```
