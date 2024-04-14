@@ -7,8 +7,7 @@ When a web page is loaded, the browser creates a `Document Object Model` (DOM) o
 
 >[!Note]
 >`Selecting with id` 
+&nbsp;
 >document.getElementBYID("myId") 
 
-```
-aditya
-```
+
