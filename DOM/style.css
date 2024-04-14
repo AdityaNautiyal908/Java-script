@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    font-family: sans-serif;
+    background: yellow;
+}
+
+body {
+    background: pink;
+}
+
+button {
+    background: blue;
+    color: #fff;
+}
