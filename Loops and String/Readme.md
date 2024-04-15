@@ -22,6 +22,10 @@ Types of loops
 >`for-of-loops`<br>
 >for(let val of strVar) <br>{ <br>
 >// do some work <br>
+>} <br> <br>
+>`for-in Loop` <br>
+>for(let key in objVar) <br> { <br>
+>// do some work <br>
 >}
 
 
