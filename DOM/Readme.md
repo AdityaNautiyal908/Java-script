@@ -20,5 +20,11 @@ When a web page is loaded, the browser creates a `Document Object Model` (DOM) o
 >document.querySelector("myid/myClass/tag") <br>
 >//returns a NodeList
 
+### Properties
+* tagName: returns tag for element nodes
+* innerText : returns the text content of the element and all its children
+* innerHTML : returns the plain text or HTML contents in the element
+* textContent: returns textual content even for hidden elements
+
 
 

@@ -1,2 +1,2 @@
-let para = document.getElementsByTagName("p");
-console.dir(para);
+let elements = document.querySelector("p");
+console.dir(elements);
