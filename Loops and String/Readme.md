@@ -19,6 +19,11 @@ Types of loops
 >// do some work <br> <br>
 >} <br>
 > `while`(condition);
+>`for-of-loops`<br>
+>for(let val of strVar) <br>{
+>// do some work <br>
+>}
+
 
 # String
 String is a sequence of characters used to represent text
