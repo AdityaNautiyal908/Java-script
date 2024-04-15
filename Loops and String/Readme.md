@@ -18,9 +18,9 @@ Types of loops
 > `do`{ <br> <br>
 >// do some work <br> <br>
 >} <br>
-> `while`(condition);
+> `while`(condition); <br>
 >`for-of-loops`<br>
->for(let val of strVar) <br>{
+>for(let val of strVar) <br>{ <br>
 >// do some work <br>
 >}
 
