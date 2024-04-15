@@ -1,14 +1,8 @@
-h1 {
-    color: blue;
-    font-family: sans-serif;
-    background: yellow;
-}
-
-body {
-    background: pink;
-}
-
-button {
-    background: blue;
-    color: #fff;
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 1rem;
+    text-align: center;
+    background: aquamarine;
 }
