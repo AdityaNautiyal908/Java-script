@@ -12,18 +12,18 @@ Types of loops
 > console.log("Hello world"); <br>
 >}
 ><hr>
->2.`while`(condition) <br> { <br>
+>2. `while`(condition) <br> { <br>
 >    // do some work <br>
 >} <br> <br> <hr>
->3.`do`{ <br> <br>
+>3. `do`{ <br> <br>
 >// do some work <br> <br>
 >} <br>
 >`while`(condition); <br> <br> <hr>
->4.`for-of-loops`<br>
+>4. `for-of-loops`<br>
 >for(let val of strVar) <br>{ <br>
 >// do some work <br>
 >} <br> <br> <hr>
->5.`for-in Loop` <br>
+>5. `for-in Loop` <br>
 >for(let key in objVar) <br> { <br>
 >// do some work <br>
 >} <hr>
