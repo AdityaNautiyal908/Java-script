@@ -7,6 +7,10 @@ When a web page is loaded, the browser creates a `Document Object Model` (DOM) o
 
 >[!Note]
 >`Selecting with id` <br>
->document.getElementBYID("myId") 
+>document.getElementByiD("myId") <br>
+>`Selecting with class` <br>
+>document.getELementsByClassName("myClass") <br>
+>`Selecting with tag` <br>
+>document.getElementsByTagName("p") <br>
 
 
