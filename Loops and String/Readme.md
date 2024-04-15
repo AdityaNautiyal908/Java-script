@@ -10,7 +10,7 @@ Types of loops
 > # Syntax of loops <br>
 >`for`(let i=1; i<=5; i++) <br> { <br>
 > console.log("Hello world"); <br>
->} <br>
+>} <br> <hr>
 >`while`(condition) <br> { <br>
 >    // do some work <br>
 >} <br> <br> <hr>
