@@ -8,22 +8,22 @@ Types of loops
 
 >[!Note]
 > # Syntax of loops <br>
-> 1.`for`(let i=1; i<=5; i++) <br> { <br>
+>`for`(let i=1; i<=5; i++) <br> { <br>
 > console.log("Hello world"); <br>
 >}
 ><hr>
->2. `while`(condition) <br> { <br>
+>`while`(condition) <br> { <br>
 >    // do some work <br>
 >} <br> <br> <hr>
->3. `do`{ <br> <br>
+>`do`{ <br> <br>
 >// do some work <br> <br>
 >} <br>
 >`while`(condition); <br> <br> <hr>
->4. `for-of-loops`<br>
+>`for-of-loops`<br>
 >for(let val of strVar) <br>{ <br>
 >// do some work <br>
 >} <br> <br> <hr>
->5. `for-in Loop` <br>
+>`for-in Loop` <br>
 >for(let key in objVar) <br> { <br>
 >// do some work <br>
 >} <hr>
