@@ -14,10 +14,10 @@ When a web page is loaded, the browser creates a `Document Object Model` (DOM) o
 >document.getElementsByTagName("p") <br>
 
 >[!IMPORTANT]
->`Query Selector` // base way to access element <br> 
->document.querySelector("myId/myClass/tag)
+>`Query Selector` // best way to access element <br> 
+>document.querySelector("myId/myClass/tag) <br>
 >//return first element <br> <br>
->document.querySelector("myid/myClass/tag") 
+>document.querySelector("myid/myClass/tag") <br>
 >//returns a NodeList
 
 
