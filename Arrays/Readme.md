@@ -1,0 +1,1 @@
+# Collection of items which store same type of data
