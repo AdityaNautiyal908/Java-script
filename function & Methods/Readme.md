@@ -2,6 +2,6 @@
 > Block of code that performs a specific task, can be invoked whenever needed
 >[!IMPORTANT]
 >function Definition <br>
->`function` functionName() <br> { <br>
-> // do some work
+>`function` functionName() { <br>
+> // do some work <br>
 >}
