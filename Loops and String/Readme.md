@@ -45,4 +45,14 @@ These are build-in functions to manipulate a string
 * str.toUpperCase()
 * str.toLowerCase()
 * str.trim() // removes whitespaces
+<hr>
+
+# Template Literals in JS
+> A way to have embedded expressions in strings
+> `this is a template literal`
+
+## String Interpolation
+> To create strings by doing substitution of placeholders
+`stringtext${expression}stringtext`
+
 
