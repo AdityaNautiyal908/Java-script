@@ -5,4 +5,6 @@
 >function Definition <br>
 >`function` functionName() { <br>
 > // do some work <br>
->}
+>} <br> <hr> 
+>function Call <br>
+>functionName();
