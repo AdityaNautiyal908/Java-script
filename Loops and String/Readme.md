@@ -48,11 +48,11 @@ These are build-in functions to manipulate a string
 <hr>
 
 # Template Literals in JS
-> A way to have embedded expressions in strings
+> A way to have embedded expressions in strings <br>
 > `this is a template literal`
 
 ## String Interpolation
-> To create strings by doing substitution of placeholders
+> To create strings by doing substitution of placeholders <br>
 `stringtext${expression}stringtext`
 
 
